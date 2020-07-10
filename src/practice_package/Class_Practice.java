@@ -8,6 +8,7 @@ public class Class_Practice {
 	public void test1(){
 		System.out.println("Hello");
 		
+		
 	}
 	
 	
